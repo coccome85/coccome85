@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**coccome85/coccome85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome👋
+####I am a Student by DCI
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
