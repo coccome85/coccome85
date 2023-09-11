@@ -1,4 +1,4 @@
-![Profilbild-Github](Profilbild-Github.png)
+![Profilbild](Profilbild.png)
 ----------------
 ### Welcome👋
 #### I am a Student by DCI
