@@ -5,7 +5,7 @@
 #### I am a Student by DCI
 
 - 🔭 I’m currently working on DCI
-- 🌱 I’m currently learning Github, HTML,CSS, UI/UX
+- 🌱 I’m currently learning on Github, HTML,CSS, UI/UX
 - 🌱 js is comming soon
 - 💬 Ask me about something
 - 😄 Pronouns she/her
